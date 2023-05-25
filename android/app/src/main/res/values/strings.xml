@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Student-management</string>
+    <string name="title_activity_main">Student-management</string>
+    <string name="package_name">com.example.studentManagemant</string>
+    <string name="custom_url_scheme">com.example.studentManagemant</string>
+</resources>
